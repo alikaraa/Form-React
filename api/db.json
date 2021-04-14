@@ -1,0 +1,22 @@
+{
+    "users" : [
+        {
+            "id": "unique-1",
+            "name": "Leonardo Di Caprio",
+            "salary": "9000",
+            "department": "Bilisim"
+          },
+          {
+            "id": "unique-2",
+            "name": "Angelina Jolie",
+            "salary": "7000",
+            "department": "Bilisim"
+          },
+          {
+            "id": "unique-3",
+            "name": "Brad Pitt",
+            "salary": "6000",
+            "department": "Bilisim"
+          }
+    ]
+}
